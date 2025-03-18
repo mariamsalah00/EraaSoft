@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.testt{
+    display: flex;
+    width: 80%;
+    height: 60vh;
+    margin: 2em auto;
+    background-color: white;
+    box-shadow: 0 0 5px rgba(0, 0, 0 ,0.3);
+    border-radius: 20px;
+    padding: 30px;
+   
+}
+.test1{
+    width:70%;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+.person{
+    width: 25%;
+    height: 50vh;
+    border-radius: 20px;
+    margin: 0 auto;
+}
+.test1 h4{
+    font-size: 25px;
+    font-weight: 600;
+    color: #0f2943;
+}
+.test1 p{
+    color: rgba(0, 0, 0 ,0.7);
+    letter-spacing: .5px;
+    word-spacing: .5px;
+}
+.test1 h2{
+    font-size: 20px;
+    font-weight: 600;
+    color: #0f2943;
+}
+.test1-1{
+    display: flex;
+    gap: 20px;
+}
+.test1-1 img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.test1-1 h6{
+    color: rgba(0, 0, 0 ,0.7);
+}
+.test1-1 div{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
